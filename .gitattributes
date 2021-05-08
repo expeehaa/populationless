@@ -1,0 +1,7 @@
+* text=auto
+
+*.xml text eol=crlf
+
+*.png binary
+*.xmb binary
+*.zip binary
