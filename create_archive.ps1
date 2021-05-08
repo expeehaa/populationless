@@ -1,0 +1,1 @@
+Compress-Archive -LiteralPath .\data\ -DestinationPath data.zip
